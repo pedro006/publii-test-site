@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>new-site</title>
+    <link href="https://www.pierremariefort.com/publii-test-site/feed.xml" rel="self" />
+    <link href="https://www.pierremariefort.com/publii-test-site" />
+    <updated>1969-12-31T19:00:00-05:00</updated>
+    <author>
+        <name>pedro</name>
+    </author>
+    <id>https://www.pierremariefort.com/publii-test-site</id>
+
+</feed>
